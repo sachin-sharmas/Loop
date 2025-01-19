@@ -1,0 +1,126 @@
+// #include <iostream>
+// using namespace std;
+
+// int main() 
+// {
+//   // example print tringle number pattern number
+  
+//     int num=5;
+//     int count=1;
+//     for(int i=1; i<=num;i++){
+//       for(int j=1; j<=i;j++){
+//         cout<<count<<" ";
+//         count++;
+//       }
+//       cout<<endl;
+//     }
+// }
+
+
+
+//  example print tringle star pattern number
+// #include <iostream>
+// using namespace std;
+
+// int main() 
+// {
+//     int num=5;
+//     int count=1;
+//     for(int i=1; i<=num;i++){
+//       for(int j=1; j<=i;j++){
+//         cout<<"*"<<" ";
+//         count++;
+//       }
+//       cout<<endl;
+//     }
+// }
+
+
+
+//  example print simple star pattern number
+// #include <iostream>
+// using namespace std;
+
+// int main() 
+// {
+  
+//     int num=5;
+//     int count=1;
+//     for(int i=1; i<=num;i++){
+//       for(int j=1; j<=num;j++){
+//         cout<<"*"<<" ";
+//         count++;
+//       }
+//       cout<<endl;
+//     }
+// }
+
+
+
+
+// this simple for loop example print simple number pattern number
+// #include <iostream>
+// using namespace std;
+
+// int main() 
+// {
+  
+//     int num=5;
+//     int count=1;
+//     for(int i=1; i<=num;i++){
+//       for(int j=1; j<=num;j++){
+//         cout<<count<<" ";
+//         count++;
+//       }
+//       cout<<endl;
+//     }
+// }
+
+
+
+// // examplereverse tringle number pattern number
+// #include <iostream>
+// using namespace std;
+
+// int main() 
+// {
+  
+//     int num=5;
+//     int count=1;
+//     for(int i=1; i<=num;i++){
+//       for(int j=1; j<=num-i;j++){
+//         cout<<" ";
+//       }
+//       for(int j=1;j<=i;j++){
+//         cout<<count<<"";
+//         count++;
+//       }
+//       cout<<endl;
+//     }
+    
+// }
+
+
+
+
+// examplereverse tringle number pattern number
+#include <iostream>
+using namespace std;
+
+int main() 
+{
+  
+    int num=5;
+    int count=1;
+    for(int i=1; i<=num;i++){
+      for(int j=1; j<=i;j++){
+        cout<<" ";
+      }
+      for(int j=1;j<=;j++){
+        cout<<count<<"";
+        count++;
+      }
+      cout<<endl;
+    }
+    
+}
